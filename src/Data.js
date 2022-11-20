@@ -2,7 +2,7 @@ let shopItemsData = [
   {
     id: "jfhgbvnscs",
     name: "Casual Shirt",
-    price: 45,
+    price: 250,
     desc: "Lorem ipsum dolor sit amet consectetur adipisicing.",
     img: "images/img-1.jpg",
   },
@@ -16,7 +16,7 @@ let shopItemsData = [
   {
     id: "wuefbncxbsn",
     name: "T Shirt",
-    price: 25,
+    price: 250,
     desc: "Lorem ipsum dolor sit amet consectetur adipisicing.",
     img: "images/img-3.jpg",
   },
